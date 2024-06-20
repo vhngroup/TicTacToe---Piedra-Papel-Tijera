@@ -3,7 +3,7 @@ import pygame
 
 pygame.init()
 screen = pygame.display.set_mode((450,450))
-pygame.display.set_caption("Piedra, Papel o Tijera")
+pygame.display.set_caption("Tricky, TictacToe, Terna") # Asignamos titulo del juego
 
 fondo = pygame.image.load(f'static/tictactoe_background.png')
 circulo = pygame.image.load(f'static/circle.png')
