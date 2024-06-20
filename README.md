@@ -2,7 +2,7 @@
 Juego desarrollado usando python y la libreria Pygame. Se realiza uso de matrices y vectores, asi como reglas de validación y eventos
 | Juego         | Quien gano       |
 | ------------- |:-------------:|
-| ![Antes](https://github.com/vhngroup/remove_background/blob/main/output/static/Tricki.png) | ![Despues](https://github.com/vhngroup/remove_background/blob/main/output/static/Finish.png) |
+| ![Juego](https://github.com/vhngroup/TicTacToe---Tricky---Terna/blob/main/static/Tricki.png) | ![Ganador](https://github.com/vhngroup/TicTacToe---Tricky---Terna/blob/main/static/Tricki.png) |
 ### Uso: ###
 * Recomendamo el uso de entornos virtuales venv
 * Ejecuta el siguiente comando: pip install -r requirements.txt
